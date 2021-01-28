@@ -1,28 +1,66 @@
 {
-  "bg": "https://image.freepik.com/fotos-gratis/fundo-de-cortina-de-palco-vermelho_46250-1573.jpg",
+  "bg": "https://i.ibb.co/prHwpXK/bg.jpg",
   "title": "Quiz sobre cinema",
   "description": "Vamos ver se você está em dias com seus filmes e séries!",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
-      "description": "Essa é pra aquecer",
-      "answer": 2,
+      "image": "https://media.giphy.com/media/e1XbElGxYqcBa/giphy.gif",
+      "title": "Qual o nome do ator que dá vida ao motoqueiro fantasma?",
+      "description": "Você é atento às coisas?",
+      "answer": 0,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Nicolas Cage",
+        "Jhonny Blaze",
+        "Terry Crews",
+        "Adam Sandler"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
-      "answer": 0,
+      "image": "https://media.giphy.com/media/10J7TJffS0ZrRC/giphy.gif",
+      "title": "Quantos oscars o filme Forest Gump ganhou?",
+      "description": "Filme muito bom, ein!",
+      "answer": 3,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+        "Sete Oscars",
+        "Nenhum Oscars",
+        "Quatro Oscars",
+        "Seis Oscars"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/wMNK4IfeH86uQ/giphy.gif",
+      "title": "Em a Fantástica Fábrica de Chocolate, o menino Charlie realizou o desejo de visitar a fábrica. Mas, como ele conseguiu o convite dourado? ",
+      "description": "Esse filme é um clássico. Tenho certeza que você já assistiu",
+      "answer": 1,
+      "alternatives": [
+        "Comprou uma barra Wonka com o dinheiro do avô e o convite estava nelas",
+        "Achou dinheiro no chão e comprou uma barra Wonka numa pequena loja, e a barra tinha o convite",
+        "Ganhou de um vendedor de doces uma barra Wonka como lembrança de aniversário, que tinha o convite dourado",
+        "Ao engraxar os sapato de um homem e ganhar o dinheiro, Charlie compra uma barra Wonka, que tem o convite"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/VeOAG5fkGAdEodtKfW/giphy.gif",
+      "title": "Qual o segredo que a princesa Fiona esconde de Shrek e do Burro no primeiro filme? ",
+      "description": "Essa é difícil, ein!",
+      "answer": 3,
+      "alternatives": [
+        "Ela é irmã do Ogro",
+        "Ela não é Princesa",
+        "Ela tem um filho",
+        "Ela se transforma em Ogro durante a Noite"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/3o7TKLEJwhke8UeYiA/giphy.gif",
+      "title": "Em Todo Mundo Odeia o Chris, quantos empregos o Julius tem?",
+      "description": "HAHAHA! Essa tá muito fácil, que trágico!",
+      "answer": 1,
+      "alternatives": [
+        "Três empregos",
+        "Dois empregos",
+        "Quatro empregos",
+        "Seis empregos"
       ]
     }
   ],
@@ -31,9 +69,9 @@
   ],
   "theme": {
     "colors": {
-      "primary": "#0d47a1",
-      "secondary": "#29b6f6",
-      "mainBg": "#171B35",
+      "primary": "#b39ddb",
+      "secondary": "#ff6d00",
+      "mainBg": "#dacfed",
       "contrastText": "#FFFFFF",
       "wrong": "#FF5722",
       "success": "#4CAF50"
