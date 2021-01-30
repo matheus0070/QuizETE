@@ -65,7 +65,10 @@
     }
   ],
   "external": [
-    ""
+    "https://quiz-star-wars.mattheussal.vercel.app",
+    "https://aluraquiz-base.antonyrafael.vercel.app/",
+    "https://alura-quiz-git-main.garticuno.vercel.app/",
+    "https://quiz-games.gabrielwolf-dev.vercel.app/"
   ],
   "theme": {
     "colors": {
