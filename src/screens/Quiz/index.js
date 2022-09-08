@@ -154,7 +154,18 @@ function QuestionWidget({
             Confirmar
           </Button>
           {isQuestionSubmited && isCorrect && <p>Você acertou!</p>}
-          {isQuestionSubmited && !isCorrect && <p>Você errou!</p>}
+          {isQuestionSubmited && !isCorrect && (
+            <>
+            <p>Você errou! A resposta era: </p>
+            <Widget.Topic
+              as="label"
+              data-selected={true}
+              data-status={'SUCCESS'}
+            >
+              {question.alternatives[question.answer]}
+            </Widget.Topic>
+            </>
+          )}
         </AlternativesForm>
       </Widget.Content>
     </Widget>
