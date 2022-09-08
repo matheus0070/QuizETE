@@ -1,80 +1,112 @@
 {
-  "bg": "https://i.ibb.co/prHwpXK/bg.jpg",
-  "title": "Quiz sobre cinema",
-  "description": "Vamos ver se você está em dias com seus filmes e séries!",
+  "bg": "https://t4.ftcdn.net/jpg/04/39/13/37/360_F_439133763_FrLdhZsd5aGC23r9ATARuKJBr8ifZjIe.jpg",
+  "title": "Quiz educacional",
+  "description": "Vamos testar seus conhecimentos!",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/e1XbElGxYqcBa/giphy.gif",
-      "title": "Qual o nome do ator que dá vida ao motoqueiro fantasma?",
+      "image": "https://media.giphy.com/media/5xtDarrD3UV3Qk6N00E/giphy-downsized-large.gif",
+      "title": "Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue?",
       "description": "Você é atento às coisas?",
+      "answer": 1,
+      "alternatives": [
+        "Tem entre 2 a 4 litros. São retirados 450 mililitros",
+        "Tem entre 4 a 6 litros. São retirados 450 mililitros",
+        "Tem 10 litros. São retirados 2 litros",
+        "Tem 7 litros. São retirados 1,5 litros",
+        "Tem 0,5 litros. São retirados 0,5 litros"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif",
+      "title": "De quem é a famosa frase “Penso, logo existo”?",
+      "description": "Não pensei sobre isso.",
+      "answer": 2,
+      "alternatives": [
+        "Platão",
+        "Galileu Galilei",
+        "Descartes",
+        "Sócrates"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/13JHOHY8NoO8Bq/giphy.gif",
+      "title": "De onde é a invenção do chuveiro elétrico?",
+      "description": "Que invenção chocante!",
+      "answer": 2,
+      "alternatives": [
+        "França",
+        "Inglaterra",
+        "Brasil",
+        "Austrália"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/xT8qBdN84G2RlDqCWs/giphy.gif",
+      "title": "Quais o menor e o maior país do mundo?",
+      "description": "Essa é difícil, ein!",
       "answer": 0,
       "alternatives": [
-        "Nicolas Cage",
-        "Jhonny Blaze",
-        "Terry Crews",
-        "Adam Sandler"
+        "Vaticano e Rússia",
+        "Nauru e China",
+        "Mônaco e Canadá",
+        "Malta e Estados Unidose"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/10J7TJffS0ZrRC/giphy.gif",
-      "title": "Quantos oscars o filme Forest Gump ganhou?",
-      "description": "Filme muito bom, ein!",
+      "image": "https://media.giphy.com/media/QnO4RAyywVTi8g4sBG/giphy.gif",
+      "title": "Qual o nome do presidente do Brasil que ficou conhecido como Jango?",
+      "description": "Ah, mas essa tá muito fácil!",
       "answer": 3,
       "alternatives": [
-        "Sete Oscars",
-        "Nenhum Oscars",
-        "Quatro Oscars",
-        "Seis Oscars"
+        "Jânio Quadros",
+        "João Figueiredo",
+        "Getúlio Vargas",
+        "João Goulart"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/wMNK4IfeH86uQ/giphy.gif",
-      "title": "Em a Fantástica Fábrica de Chocolate, o menino Charlie realizou o desejo de visitar a fábrica. Mas, como ele conseguiu o convite dourado? ",
-      "description": "Esse filme é um clássico. Tenho certeza que você já assistiu",
+      "image": "https://media.giphy.com/media/yYewZhM1EXBkliuDTE/giphy.gif",
+      "title": "Qual o grupo em que todas as palavras foram escritas corretamente?",
+      "description": "Outra muito fácil!",
       "answer": 1,
       "alternatives": [
-        "Comprou uma barra Wonka com o dinheiro do avô e o convite estava nelas",
-        "Achou dinheiro no chão e comprou uma barra Wonka numa pequena loja, e a barra tinha o convite",
-        "Ganhou de um vendedor de doces uma barra Wonka como lembrança de aniversário, que tinha o convite dourado",
-        "Ao engraxar os sapato de um homem e ganhar o dinheiro, Charlie compra uma barra Wonka, que tem o convite"
+        "Asterístico, beneficiente, meteorologia, entertido",
+        "Asterisco, beneficente, meteorologia, entretido",
+        "Asterisco, beneficente, metereologia, entretido",
+        "Asterístico, beneficiente, metereologia, entretido"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/VeOAG5fkGAdEodtKfW/giphy.gif",
-      "title": "Qual o segredo que a princesa Fiona esconde de Shrek e do Burro no primeiro filme? ",
-      "description": "Essa é difícil, ein!",
-      "answer": 3,
-      "alternatives": [
-        "Ela é irmã do Ogro",
-        "Ela não é Princesa",
-        "Ela tem um filho",
-        "Ela se transforma em Ogro durante a Noite"
-      ]
-    },
-    {
-      "image": "https://media.giphy.com/media/3o7TKLEJwhke8UeYiA/giphy.gif",
-      "title": "Em Todo Mundo Odeia o Chris, quantos empregos o Julius tem?",
-      "description": "HAHAHA! Essa tá muito fácil, que trágico!",
+      "image": "https://media.giphy.com/media/xT77Y1T0zY1gR5qe5O/giphy.gif",
+      "title": "Qual o livro mais vendido no mundo a seguir à Bíblia?",
+      "description": "Qual será, hein?!",
       "answer": 1,
       "alternatives": [
-        "Três empregos",
-        "Dois empregos",
-        "Quatro empregos",
-        "Seis empregos"
+        "O Senhor dos Anéis",
+        "Dom Quixote",
+        "O Pequeno Príncipe",
+        "Ela, a Feiticeira"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/l2SpKPq1YgZh8a22I/giphy.gif",
+      "title": "Quantas casas decimais tem o número pi?",
+      "description": "Um ponto de graça pra finalizar",
+      "answer": 2,
+      "alternatives": [
+        "Duas",
+        "Centenas",
+        "Infinitas",
+        "Vinte"
       ]
     }
-  ],
-  "external": [
-    "https://quiz-star-wars.mattheussal.vercel.app",
-    "https://aluraquiz-base.antonyrafael.vercel.app/",
-    "https://alura-quiz-git-main.garticuno.vercel.app/",
-    "https://quiz-games.gabrielwolf-dev.vercel.app/"
+    
   ],
   "theme": {
     "colors": {
-      "primary": "#b39ddb",
+      "primary": "#111211",
       "secondary": "#ff6d00",
-      "mainBg": "#dacfed",
+      "mainBg": "#1b1c1b",
       "contrastText": "#FFFFFF",
       "wrong": "#FF5722",
       "success": "#4CAF50"
